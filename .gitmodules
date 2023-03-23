@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DeltaMAN"]
+	path = DeltaMAN
+	url = https://github.com/cran/DeltaMAN
+	shallow = true
+	registered = true
+[submodule "MoTBFs"]
+	path = MoTBFs
+	url = https://github.com/cran/MoTBFs
+	shallow = true
+	registered = true
